@@ -1,6 +1,11 @@
-.eunit
-deps
-*.o
 *.beam
-*.plt
+*~
+.DS_Store
+deps
+log/
+logs/
+build_info.txt
+ct_logs
 erl_crash.dump
+.eunit/
+/.rebar/erlcinfo
